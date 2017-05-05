@@ -1,0 +1,3 @@
+# intel-mobileodt-cervical-cancer-screening
+In this competition, you will develop algorithms to correctly classify cervix types based on cervical images. These different types of cervix in our data set are all considered normal (not cancerous), but since the transformation zones aren't always visible, some of the patients require further testing while some don't. This decision is very important for the healthcare provider and critical for the patient. Identifying the transformation zones is not an easy task for the healthcare providers, therefore, an algorithm-aided decision will significantly improve the quality and efficiency of cervical cancer screening for these patients.
+https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
