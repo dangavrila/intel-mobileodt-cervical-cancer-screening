@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get upgrade --fix-missing
+sudo apt-get install python3-pip
+sudo pip install numpy scipy matplotlib ipython jupyter pandas sympy nose opencv
+-python scikit-image plotly seaborn
